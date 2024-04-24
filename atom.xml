@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2024-04-24T11:59:04.848Z</updated>
+  <updated>2024-04-24T12:02:36.223Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>My New Post</title>
+    <title>dlk博客简介</title>
     <link href="http://example.com/2024/04/24/My-New-Post/"/>
     <id>http://example.com/2024/04/24/My-New-Post/</id>
     <published>2024-04-24T11:40:12.000Z</published>
-    <updated>2024-04-24T11:59:04.848Z</updated>
+    <updated>2024-04-24T12:02:36.223Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="我的个人介绍"><a href="#我的个人介绍" class="headerlink" title="我的个人介绍"></a>我的个人介绍</h1><h2 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h2><p>我是dlk</p><h2 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈</h2><h3 id="编程语言"><a href="#编程语言" class="headerlink" title="编程语言"></a>编程语言</h3><ul><li>Python</li><li>C&#x2F;C++</li><li>SQL</li></ul><h3 id="技术框架"><a href="#技术框架" class="headerlink" title="技术框架"></a>技术框架</h3><ul><li>pytorch</li></ul><h2 id="项目经验"><a href="#项目经验" class="headerlink" title="项目经验"></a>项目经验</h2><h3 id="项目一：医疗保险欺诈识别模型"><a href="#项目一：医疗保险欺诈识别模型" class="headerlink" title="项目一：医疗保险欺诈识别模型"></a>项目一：医疗保险欺诈识别模型</h3><p>服务外包比赛</p><h3 id="项目二：驾驶视觉推理"><a href="#项目二：驾驶视觉推理" class="headerlink" title="项目二：驾驶视觉推理"></a>项目二：驾驶视觉推理</h3><p>导师科研项目</p><h2 id="博客内容"><a href="#博客内容" class="headerlink" title="博客内容"></a>博客内容</h2><p>未来会更新一些学习、生活、娱乐相关内容</p>]]></content>
+    <content type="html"><![CDATA[<h1 id="我的个人介绍"><a href="#我的个人介绍" class="headerlink" title="我的个人介绍"></a>我的个人介绍</h1><h2 id="自我介绍"><a href="#自我介绍" class="headerlink" title="自我介绍"></a>自我介绍</h2><p>我是dlk</p><h2 id="博客内容"><a href="#博客内容" class="headerlink" title="博客内容"></a>博客内容</h2><p>未来会更新一些学习、生活、娱乐相关内容</p><h2 id="技术栈"><a href="#技术栈" class="headerlink" title="技术栈"></a>技术栈</h2><h3 id="编程语言"><a href="#编程语言" class="headerlink" title="编程语言"></a>编程语言</h3><ul><li>Python</li><li>C&#x2F;C++</li><li>SQL</li></ul><h3 id="技术框架"><a href="#技术框架" class="headerlink" title="技术框架"></a>技术框架</h3><ul><li>pytorch</li></ul><h2 id="项目经验"><a href="#项目经验" class="headerlink" title="项目经验"></a>项目经验</h2><h3 id="项目一：医疗保险欺诈识别模型"><a href="#项目一：医疗保险欺诈识别模型" class="headerlink" title="项目一：医疗保险欺诈识别模型"></a>项目一：医疗保险欺诈识别模型</h3><p>服务外包比赛</p><h3 id="项目二：驾驶视觉推理"><a href="#项目二：驾驶视觉推理" class="headerlink" title="项目二：驾驶视觉推理"></a>项目二：驾驶视觉推理</h3><p>导师科研项目</p>]]></content>
     
     
       
